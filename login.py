@@ -8,7 +8,6 @@ from fake_useragent import UserAgent
 import requests
 import json
 import re
-import json
 import pandas as pd
 from datetime import datetime
 
